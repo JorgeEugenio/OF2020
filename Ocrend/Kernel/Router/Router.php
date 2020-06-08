@@ -46,7 +46,7 @@ final class Router implements IRouter {
      * @var array 
     */
     private $routerCollection = array(
-        '/controller' => 'home', # controlador por defecto
+        '/controller' => 'clientes', # controlador por defecto
         '/method' => null, # método por defecto
         '/id' => null, # id por defecto
         '/primero' => null, # id por defecto

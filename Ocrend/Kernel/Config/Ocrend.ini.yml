@@ -14,7 +14,7 @@ database:
       user: root
       pass: Uni_17891950.123
       name: ocrend
-      port: 3307
+      port: 3306
       socket: default
     sqlite3:
       file: '___ROOT___Ocrend/Kernel/Database/Drivers/Sqlite/db.sqlite3'
